@@ -34,7 +34,7 @@ const CardToday = () => {
                 </div>
 
                 <div className="todays-schedule">
-                    <p>Sehri - <span className="time">00:00 AM</span></p>
+                    <p>Sehri - <span className="time">03:00 AM</span></p>
                     <p>Sunrise - <span className="time">00:00 AM</span></p>
                     <p>Iftar - <span className="time">00:00 AM</span></p>
                 </div>
